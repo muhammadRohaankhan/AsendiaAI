@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Logs and output directories
+logs/
+output/
+
+# Database files (generated at runtime)
+*.db
+
+# Generated vector index and cache files
+faiss.index
+precomputed_filter.pkl
+candidate_ids.json
+config.json
+
+# Configuration file (uncomment if it contains sensitive info)
+# config.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db

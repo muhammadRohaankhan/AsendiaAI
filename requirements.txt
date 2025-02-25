@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+sentence_transformers
+PyPDF2
+python-docx
+pandas
+rank_bm25
+numpy
+openpyxl
