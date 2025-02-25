@@ -120,10 +120,6 @@ The logging is configured via `utils/logger.py` to use a FileHandler only. All l
 
 Contributions are welcome! Please follow best practices and update tests/documentation as necessary.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 This **README.md** provides a clear overview of the project, installation instructions, usage guidelines, and troubleshooting steps to help users get started with the Asendia Resume Matching System.
